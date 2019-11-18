@@ -1,0 +1,35 @@
+/*********************************************************************************
+
+	Template Name: Boighor Bookshop Responsive Bootstrap4 Template  
+	Description: Template description
+	Version: 1.0
+	Note: This is custom css. All custom styles (user styles) declare here.
+
+**********************************************************************************/
+/*label.error {
+    float: none; 
+    color: red; 
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-top: 0.5em;
+    width: 100%;
+    display: block;
+    margin-left: 22%;
+}
+
+@media screen and (orientation: portrait){
+    label.error { margin-left: 0; display: block; }
+}
+@media screen and (orientation: landscape){
+    label.error { display: inline-block; margin-left: 22%; }
+}*/
+
+.error {
+    color: red !important;
+}
+
+.height_of_image{
+    width: 400px !important;
+    height: 600px !important;
+}
